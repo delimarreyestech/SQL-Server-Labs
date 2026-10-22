@@ -15,7 +15,9 @@ This repository explores SQL Server features, query patterns, and data-processin
 
 | Lab | Topic | Description |
 |---|---|---|
-| 01 | GENERATE_SERIES() | Finding missing values and generating date sequences |
+| 01 | [Finding Missing Values with GENERATE_SERIES()](Query-Patterns/Generate-Series/) | Identify missing integers using set-based operations and dynamic boundaries. |
+| 02 | [Building a Date Dimension with GENERATE_SERIES()](Data-Warehousing/Date-Dimension/) | Generate continuous date sequences and build a calendar-based Date Dimension. |
+
 
 ## Environment
 
