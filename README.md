@@ -17,6 +17,7 @@ This repository explores SQL Server features, query patterns, and data-processin
 |---|---|---|
 | 01 | [Finding Missing Values with GENERATE_SERIES()](Query-Patterns/Generate-Series/) | Identify missing integers using set-based operations and dynamic boundaries. |
 | 02 | [Building a Date Dimension with GENERATE_SERIES()](Data-Warehousing/Date-Dimension/) | Generate continuous date sequences and build a calendar-based Date Dimension. |
+| 03 | [Identify customers present in sales records but missing from the CRM, and investigate how NULL values affect reconciliation results.()](Query-Patterns/Anti-Join/) | NOT EXISTS, NOT IN, LEFT JOIN, EXCEPT |
 
 
 ## Environment
